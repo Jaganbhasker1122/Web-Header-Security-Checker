@@ -17,7 +17,7 @@ A simple **Python tool** to fetch HTTP headers, check for **missing security hea
 2. **Install dependencies**  
    ```bash
    pip install requests
-git clone https://github.com/your-username/web-header-checker.git
+git clone (https://github.com/Jaganbhasker1122/Web-Header-Security-Checker/)
 cd web-header-checker
 
 ## Usage
